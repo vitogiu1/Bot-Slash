@@ -114,6 +114,7 @@ O projeto ainda está em desenvolvimento, e não está pronto para ser ligado, m
     </tr>
   </tbody>
 </table>
+
 ---
 
 - Qualquer duvida me chame no discord: Vitogiu1#1418 :)
