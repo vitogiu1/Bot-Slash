@@ -21,7 +21,6 @@ O projeto ainda está em desenvolvimento, e não está pronto para ser ligado, m
 
 ---
 
----
 
 ## 💈 Padronização de commits
 
