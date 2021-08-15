@@ -14,13 +14,22 @@ application.commands & administrator
 
 - é nescessário que ele tenha as duas permissões (A permissão de administrador, não da o bot, a permissão de application.commands, que no caso, é a permissão de criar comandos / )
 
+- Depois utilize mude a config.example.json para config.json, arrume as coisas que estão dentro e execute os seguintes comadnos:
+
+```shell
+npm install
+```
+
+- E para ligar: 
+
+```shell
+npm start
+```
 
 ---
 
-O projeto ainda está em desenvolvimento, e não está pronto para ser ligado, mas assim que tudo estiver ok, ficará aqui, como ligar o projeto.  
-
+- A base de comandos slash estão dentro da pasta "base_de_comandos_slash"
 ---
-
 
 ## 💈 Padronização de commits
 
